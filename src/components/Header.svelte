@@ -3,14 +3,19 @@
 </script>
 
 <style>
+  .Header-container {
+    padding: 0 30px;
+    text-align: center;
+  }
   .Header-content {
-    display: flex;
+    /* display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 0 20px;
+    flex-wrap: wrap; */
+    text-align: center;
   }
   .Header-content img {
-    width: 15%;
+    width: 200px;
   }
   .Header-content ul {
     display: flex;
@@ -30,7 +35,7 @@
   <div class="Header-container">
     <div class="Header-content">
       <img src={BomLogo} alt="BomLabs" />
-      <nav>
+      <!-- <nav>
         <ul>
           <li>
             <a href="">Apps</a>
@@ -42,7 +47,7 @@
             <a href="">Contacto</a>
           </li>
         </ul>
-      </nav>
+      </nav> -->
     </div>
   </div>
 </div>

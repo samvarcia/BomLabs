@@ -1,6 +1,9 @@
 <script>
   import Header from "./components/Header.svelte";
   import Hero from "./components/Hero.svelte";
+  import Apps from "./components/Apps.svelte";
+  import Mision from "./components/Mision.svelte";
+  import Footer from "./components/Footer.svelte";
 </script>
 
 <style>
@@ -14,4 +17,7 @@
 <main>
   <Header />
   <Hero />
+  <Apps />
+  <Mision />
+  <Footer />
 </main>

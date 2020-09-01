@@ -32,6 +32,9 @@
     .Hero-container {
       padding: 5px 20px;
     }
+    .HeroImg {
+      width: 100%;
+    }
     .Hero-copy h1 {
       font-size: 35px;
       width: 100%;

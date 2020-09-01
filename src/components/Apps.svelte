@@ -9,6 +9,7 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
+    flex-wrap: wrap;
     padding: 0px 150px;
     margin-top: 20px;
     /* border: 1px solid red; */
@@ -35,6 +36,18 @@
   }
   a {
     text-decoration: none;
+  }
+  @media screen and (max-width: 768px) {
+    .Nutracle {
+      padding: 15px;
+      text-align: center;
+    }
+    .nut-copy p {
+      width: 100%;
+    }
+    .nut-img {
+      width: 100%;
+    }
   }
 </style>
 

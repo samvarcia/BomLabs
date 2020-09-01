@@ -21,6 +21,14 @@
   ul img {
     width: 70px;
   }
+  @media screen and (max-width: 768px) {
+    .footer-content {
+      flex-direction: column;
+    }
+    ul {
+      padding: 0;
+    }
+  }
 </style>
 
 <div class="Footer">

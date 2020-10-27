@@ -64,7 +64,9 @@
           </p>
           <div class="copy-foot">
             <img src={store} alt="Donde descargar?" />
-            <a href="">
+            <a
+              href="https://framer.com/share/Nutracle-Nutrition--2fSwSAMxhAbUTcxGGXIc"
+              target="_blank">
               <h2>Ver prototipo</h2>
             </a>
           </div>
@@ -80,7 +82,9 @@
           </p>
           <div class="copy-foot-2">
             <img src={store} alt="Donde descargar?" />
-            <a href="">
+            <a
+              href="https://framer.com/share/Rouk-BomLabs--o85cjsirYcRxDb1ZhnAa/k45hCM4xm"
+              target="_blank">
               <h2>Ver prototipo</h2>
             </a>
           </div>

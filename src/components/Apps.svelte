@@ -65,7 +65,7 @@
           <div class="copy-foot">
             <img src={store} alt="Donde descargar?" />
             <a
-              href="https://framer.com/share/Nutracle-Nutrition--2fSwSAMxhAbUTcxGGXIc"
+              href="https://framer.com/share/Nutracle-Nutrition--2fSwSAMxhAbUTcxGGXIc/ZmZwF6DMV"
               target="_blank">
               <h2>Ver prototipo</h2>
             </a>
